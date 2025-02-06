@@ -9,6 +9,7 @@ I'm trying to learn Java so I can make a Minecraft mod. btw, my teacher used to 
 
 
 🐢To be honest, I just want to have fun and learn Java on my own and I don't think I want a team member.
+
 💭It would be nice if one day, when I have finished my confident work, someone will look at this document and be impressed. 'Oh baby! I can't believe you finished this when you didn't know any programming or English!' Something like that.
 
 <!--
